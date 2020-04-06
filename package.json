@@ -1,0 +1,6 @@
+{
+    "name": "gdoc-app",
+    "dependencies": {
+        "googleapis": "^47.0.0"
+    }
+}
