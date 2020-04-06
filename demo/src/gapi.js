@@ -3,7 +3,7 @@ import { ID } from './builtjs/services/id'
 let documentData = {}
 const fileId = `1JGrY0_fSmtZB1cCAb074hlDSPUJBL4HiD8CRBQky90Q`
 const client = {
-    apiKey: 'AIzaSyBWyofYdqqWW1fdFBbe3GjYwunoMi_tP5Q',
+    apiKey: '',
     discoveryDocs: ['https://www.googleapis.com/discovery/v1/apis/drive/v3/rest', 'https://www.googleapis.com/discovery/v1/apis/gmail/v1/rest'],
     clientId: '679670526531-po28kjn9kdk5h93k8uf6n2i26harqedr.apps.googleusercontent.com',
     scope: 'profile https://www.googleapis.com/auth/drive https://www.googleapis.com/auth/drive.appdata https://www.googleapis.com/auth/drive.apps.readonly https://www.googleapis.com/auth/drive.file https://www.googleapis.com/auth/drive.metadata https://www.googleapis.com/auth/drive.metadata.readonly https://www.googleapis.com/auth/drive.photos.readonly https://www.googleapis.com/auth/drive.readonly https://mail.google.com/ https://www.googleapis.com/auth/gmail.modify https://www.googleapis.com/auth/gmail.compose https://www.googleapis.com/auth/gmail.send'
